@@ -1,0 +1,22 @@
+# Akıllı Tarım ve Sulama Yönetim Sistemi Veritabanı Projesi
+
+Bu proje, Fırat Üniversitesi BMÜ-329 Veri Tabanı Sistemleri dersi kapsamında 7. Grup tarafından geliştirilmiştir. Projenin amacı, modern tarım tekniklerini destekleyen, sensör verilerini işleyerek çiftçilere rehberlik eden ilişkisel bir veritabanı sistemi tasarlamaktır.
+
+Tüm detaylı proje gereksinimleri ve açıklamalar `docs/Proje_Gereksinimleri.docx` dosyasında bulunmaktadır.
+
+---
+
+## Proje Ekibi
+
+| Öğrenci No | Ad Soyad          | GitHub Profili |
+| :---------- | :---------------- | :------------- |
+| 235260029  | Emircan Özkaya    | [GitHub](https://github.com/EmircanOzkaya17) |
+| 235260083  | Taha Buğra Çiçek  | [GitHub](https://github.com/tahabugracck) |
+| 235260035  | Ali Kağan Akdemir | [GitHub](https://github.com/alikagan05) |
+
+
+---
+
+## Varlık-İlişki (E-R) Diyagramı
+
+Veritabanı şeması, çiftçiler, tarlalar, ekinler, sensörler ve bu sensörlerden gelen ölçümler arasındaki ilişkileri modellemektedir. Veritabanının tam yapısını ve varlıklar arasındaki ilişkileri gösteren diyagram aşağıdadır. Diyagramın farklı formatlarına `docs/diagrams/` klasöründen erişilebilir.
